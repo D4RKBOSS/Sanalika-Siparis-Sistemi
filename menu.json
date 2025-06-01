@@ -1,0 +1,235 @@
+{
+    "Americano": [
+        "Kahve"
+    ],
+    "Ayran": [
+        "Su",
+        "Yoğurt"
+    ],
+    "Balık ekmek": [
+        "Balık",
+        "Ekmek",
+        "Soğan"
+    ],
+    "Balıklı Salata": [
+        "Balık",
+        "Domates",
+        "Marul",
+        "Zeytin-Yağı"
+    ],
+    "Cheese Burger": [
+        "Peynir",
+        "Burger-Ekmek",
+        "Burger-Köfte"
+    ],
+    "Cacıklı Arap Köftesi": [
+        "Yoğurt",
+        "Kıyma",
+        "Bulgur",
+        "Zeytin-Yağı",
+        "Un"
+    ],
+    "Cappucino": [
+        "Cappucino"
+    ],
+    "Çay": [
+        "Çay"
+    ],
+    "Çikolatalı Donut": [
+        "Hamur",
+        "Yumurta",
+        "Çikolata"
+    ],
+    "Çilekli Dondurma": [
+        "Çilek",
+        "Sade-Dondurma"
+    ],
+    "Çikolatalı Milkshake": [
+        "Buz",
+        "Buz",
+        "Buz",
+        "Buz",
+        "Süt",
+        "Çikolata",
+        "Krema"
+    ],
+    "Falafel": [
+        "Zeytin-Yağı",
+        "Hamur",
+        "Soğan",
+        "Soğan",
+        "Maydanoz",
+        "Nohut"
+    ],
+    "Gözleme": [
+        "Hamur",
+        "Peynir",
+        "Maydanoz"
+    ],
+    "Humus": [
+        "Nohut",
+        "Limon",
+        "Su",
+        "Tahin"
+    ],
+    "Hamburger": [
+        "Domates",
+        "Burger-Ekmek",
+        "Burger-Köfte"
+    ],
+    "Izgara Balık": [
+        "Balık",
+        "Soğan",
+        "Zeytin-Yağı"
+    ],
+    "Izgara Biftek": [
+        "Biftek",
+        "Patates",
+        "Zeytin-Yağı"
+    ],
+    "İtalyan Pizza": [
+        "Hamur",
+        "Peynir",
+        "Biber"
+    ],
+    "Karpuz Peynir": [
+        "Beyaz-Peynir",
+        "Karpuz"
+    ],
+    "Kase Pilav": [
+        "Pirinç",
+        "Su",
+        "Zeytin-Yağı"
+    ],
+    "Kavurmalı Pilav": [
+        "Pirinç",
+        "Biftek",
+        "Su"
+    ],
+    "Karışık Pizza": [
+        "Hamur",
+        "Peynir",
+        "Sucuk"
+    ],
+    "Kaşarlı Pide": [
+        "Peynir",
+        "Hamur"
+    ],
+    "Kapta Dondurma": [
+        "Süt",
+        "Krema",
+        "Krema",
+        "Şeker",
+        "Çikolata",
+        "Çilek"
+    ],
+    "Kavunda Dondurma": [
+        "Karadut",
+        "Sade-Dondurma",
+        "Şeftali",
+        "Kavun"
+    ],
+    "Kremalı Filtre Kahve": [
+        "Kahve-Kreması",
+        "Filtre-Kahve"
+    ],
+    "Lokma": [
+        "Un",
+        "Şeker",
+        "Su",
+        "Maya"
+    ],
+    "Limonata": [
+        "Buz",
+        "Buz",
+        "Şeker",
+        "Nane",
+        "Nane",
+        "Limon"
+    ],
+    "Menemen": [
+        "Yumurta",
+        "Zeytin-Yağı",
+        "Domates",
+        "Biber"
+    ],
+    "Midye": [
+        "Kabuklu Midye",
+        "Kabuklu Midye",
+        "Zeytin-Yağı",
+        "Limon",
+        "Pirinç",
+        "Su"
+    ],
+    "Meyve Suyu": [
+        "Su",
+        "Karadut",
+        "Buz",
+        "Çilek"
+    ],
+    "Meyve Suyu Kokteyli": [
+        "Su",
+        "Karadut",
+        "Buz",
+        "Çilek"
+    ],
+    "Patates Kızartması": [
+        "Patates"
+    ],
+    "Patlamış Mısır": [
+        "Mısır",
+        "Zeytin-Yağı"
+    ],
+    "Peynirli Pizza": [
+        "Hamur",
+        "Peynir",
+        "Domates"
+    ],
+    "Piskevit Arası Marshmellow": [
+        "Şeker",
+        "Süt",
+        "Krema",
+        "Çikolata"
+    ],
+    "Sucuk Ekmek": [
+        "Sucuk",
+        "Sucuk",
+        "Ekmek"
+    ],
+    "Sucuklu Pide": [
+        "Sucuk",
+        "Hamur"
+    ],
+    "Sushi": [
+        "Pirinç",
+        "Su",
+        "Balık"
+    ],
+    "Sütlaç": [
+        "Pirinç",
+        "Şeker",
+        "Süt"
+    ],
+    "Sütlü Kahve": [
+        "Süt",
+        "Kahve"
+    ],
+    "Şam Tatlısı": [
+        "Yoğurt",
+        "Şeker",
+        "Fıstık",
+        "İrmik"
+    ],
+    "Tavuk Şiş": [
+        "Tavuk-Eti",
+        "Pirinç",
+        "Biber",
+        "Zeytin-Yağı"
+    ],
+    "Tavuklu Salata": [
+        "Tavuk-Eti",
+        "Domates",
+        "Marul",
+        "Maydanoz"
+    ]
+}
