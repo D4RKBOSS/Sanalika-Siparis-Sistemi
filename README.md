@@ -23,3 +23,5 @@ https://kick.com/ciftekolsuz
 
 https://www.instagram.com/d4rkboss/
 ----------------------------------------------------
+
+![Screenshot_77](https://github.com/user-attachments/assets/0ec30867-5491-443c-abc8-5e1a59c1baec)
