@@ -1,5 +1,8 @@
 Python programlama diliyle yapılmıştır oyundan veri talebi yapmamaktadır.
 
+uygulamanın setup dosyasına tag kısmından ulaşabilirsiniz
+Setup URL: https://github.com/D4RKBOSS/Sanalika-Siparis-Sistemi/releases/tag/v1.0
+
 ----------------------------------------------------
 Created - Geliştirici
 ----------------------------------------------------
